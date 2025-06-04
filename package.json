@@ -1,0 +1,14 @@
+{
+  "name": "fst344-optimization",
+  "version": "1.0.0",
+  "description": "FST344 Follistatin Sequence Optimization Project",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["protein", "optimization", "bioinformatics", "AAV", "gene-therapy"],
+  "author": "FST344 Optimization Team",
+  "license": "MIT"
+}
